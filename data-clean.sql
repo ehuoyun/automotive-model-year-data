@@ -208,6 +208,7 @@
 ('audi', 's7'),
 ('audi', 's8'),
 ('audi', 'sq5'),
+('audi', 'sr7'),
 ('audi', 'tt'),
 ('audi', 'tt rs'),
 ('audi', 'tts'),
