@@ -15,6 +15,7 @@
 ('acura','legend'),
 ('acura','mdx'),
 ('acura','nsx'),
+('acura','nsx-t'),
 ('acura','rdx'),
 ('acura','rl'),
 ('acura','rsx'),
